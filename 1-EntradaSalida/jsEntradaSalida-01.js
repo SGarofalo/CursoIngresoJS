@@ -1,8 +1,12 @@
-/*
-Al presionar el  botón, 
-se debe mostrar un mensaje como el siguiente "Esto funciona de maravilla"*/
-function mostrar()
-{
-	alert("Esto funciona de maravilla");
-}
+//nombreDelAlumno
 
+{
+
+
+let edad = prompt("Inserte su edad por favor", "20");
+
+alert("Usted se llama José y tiene 2' años");
+
+
+
+}
